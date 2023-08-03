@@ -8,7 +8,7 @@ requires = [
 
 [project]
 name = "jinjanator-plugin-format-xml"
-description = "Plugin which provides Ansible filters and tests to the Jinjanator tool"
+description = "Plugin which provides XML format (data input) support for Jinjanator"
 license = { text="Apache-2.0" }
 authors = [
   { name="Kevin P. Fleming", email="jinjanator@kevin.km6g.us" },
