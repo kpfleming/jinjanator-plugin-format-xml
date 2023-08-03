@@ -42,7 +42,7 @@ server {
 }
 ```
 
-And you have a XML file with the data, `nginx.xml`:
+And you have an XML file with the data, `nginx.xml`:
 
 ```xml
 <nginx>
