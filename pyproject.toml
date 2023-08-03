@@ -87,7 +87,6 @@ dependencies = [
     "black",
     "ruff",
     "mypy",
-    "pytest", # needed for type-checking tests
     "types-xmltodict",
 ]
 
