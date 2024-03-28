@@ -11,14 +11,14 @@
 [![Testing - Pytest](https://img.shields.io/badge/Testing-Pytest-orange.svg)](https://github.com/pytest-dev/pytest)
 
 This repo contains `jinjanator-plugin-format-xml`, a plugin which
-provides an XML parser for the [Jinjanator](https://github.com/kpfleming/jinjanator) tool.
+provides an XML parser for the [jinjanator](https://github.com/kpfleming/jinjanator) tool.
 
 Open Source software: [Apache License 2.0](https://spdx.org/licenses/Apache-2.0.html)
 
 ## &nbsp;
 <!-- fancy-readme start -->
 
-This plugin allows Jinjanator to parse XML data for processing in
+This plugin allows jinjanator to parse XML data for processing in
 templates. The format can be selected using `--format xml` or
 autoselected by using a data file with a name ending with `.xml`.
 
@@ -70,7 +70,7 @@ $ jinjanate nginx.j2 nginx.xml > nginx.conf
 
 ## Chat
 
-If you'd like to chat with the Jinjanator community, join us on
+If you'd like to chat with the jinjanator community, join us on
 [Matrix](https://matrix.to/#/#jinjanator:km6g.us)!
 
 ## Credits
