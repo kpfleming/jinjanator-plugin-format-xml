@@ -34,7 +34,7 @@ dynamic = [
   "version",
 ]
 dependencies = [
-  "jinjanator-plugins==23.4.*",
+  "jinjanator-plugins==24.1.*",
   "xmltodict",
 ]
 [project.urls]
