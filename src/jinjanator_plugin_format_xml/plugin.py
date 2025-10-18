@@ -1,5 +1,5 @@
 from collections.abc import Iterable, Mapping
-from typing import Any, Optional
+from typing import Any
 
 import xmltodict
 
@@ -11,10 +11,10 @@ from jinjanator_plugins import (
 
 class XMLFormat:
     name = "xml"
-    suffixes: Optional[Iterable[str]] = ".xml"
-    option_names: Optional[Iterable[str]] = "process-namespaces"
+    suffixes: Iterable[str] | None = ".xml"
+    option_names: Iterable[str] | None = "process-namespaces"
 
-    def __init__(self, options: Optional[Iterable[str]]) -> None:
+    def __init__(self, options: Iterable[str] | None) -> None:
         self.process_namespaces = False
         if options:
             for _option in options:
