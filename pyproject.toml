@@ -41,7 +41,7 @@ email = "jinjanator@kevin.km6g.us"
 jinjanator.format_xml = "jinjanator_plugin_format_xml.plugin"
 [project.urls]
 "Bug Tracker" = "https://github.com/kpfleming/jinjanator-plugin-format-xml/issues"
-"Homepage" = "https://github.com/kpfleming/jinjanator-plugin-format-xml"
+Homepage = "https://github.com/kpfleming/jinjanator-plugin-format-xml"
 
 [tool.hatch]
 [tool.hatch.build]
