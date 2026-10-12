@@ -28,6 +28,15 @@ See https://github.com/kpfleming/jinjanator-plugin-format-xml/blob/main/.github/
 
 <!-- towncrier release notes start -->
 
+## [26.1.0](https://github.com/kpfleming/jinjanator-plugin-format-xml/tree/26.1.0) - 2026-10-12
+
+### Backwards-incompatible Changes
+
+- Support for Python 3.10 has been removed.
+  
+- Upgrade to version 26.1.0 of jinjanator-plugins.
+  
+
 ## [25.1.0](https://github.com/kpfleming/jinjanator-plugin-format-xml/tree/25.1.0) - 2025-10-18
 
 ### Backwards-incompatible Changes
